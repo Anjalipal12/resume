@@ -41,18 +41,6 @@ cd resume
 
 ---
 
-## 📸 Screenshots
-
-> You can include screenshots of your resume site below.
-
-![Homepage](static/images/homepage.png)  
-*Homepage View*
-
-![Contact Form](static/images/contact.png)  
-*Contact Form View*
-
----
-
 ## 🤝 Contribution Guidelines
 
 If you'd like to contribute:
